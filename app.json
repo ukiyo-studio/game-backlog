@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6d7b054d-cf92-41cd-b22d-b004cfd6ccac"
+      }
+    },
+    "owner": "ukiyo.development"
   }
 }
